@@ -1,1 +1,7 @@
-# Realizando reto semana uno
+# Realizando reto semana uno, modificado
+Cambios realizados
+:q
+Cambios realizados
+:q
+
+
